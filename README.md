@@ -10,7 +10,7 @@
 | 3 | NOT P IFF Q |  $$\neg P\leftrightarrow Q$$   |
 | 4 | FOR ALL x, P(x) | $$(\forall x) P(x)$$  |
 | 5 | THERE EXISTS AN x, NOT Q(x) | $$(\exists x)\neg Q(x)$$ |
-| 6 | IF P THEN Q EQUIVALENT TO NOT P OR Q | $$P\rightarrow Q\equiv \neg P\vee R$$ |
+| 6 | IF P THEN Q EQUIVALENT TO NOT P OR Q | $$P\rightarrow Q\equiv \neg P\vee Q$$ |
 | 7 | Euler's Identity |  $$e^{i\pi}+1=0$$  |
 | 8 | SUM of n from 1 to 100 Equals 5050 | $$\sum\limits_{n=1}^{100}n=5050$$ |
 
